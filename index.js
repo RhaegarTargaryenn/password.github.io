@@ -1,0 +1,1 @@
+const displayslider= document.querySelector(".lengthshow");
